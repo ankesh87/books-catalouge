@@ -1,62 +1,6 @@
 [
-    {
-        "title": "1971",
-        "author": ""
-    },
-    {
-        "title": "1984",
-        "author": "GEORGE ORWELL"
-    },
-    {
-        "title": "TOBY",
-        "author": "MARGARET WILD"
-    },
-    {
-        "title": "( ISC) CLASS CERTIFIED INFORMATION SYSTEMS SECURITY PROFESSIONAL",
-        "author": "MIKE CHAPPLE"
-    },
-    {
-        "title": "(MHS-13) MARITIME HERITAGE OF KONKAN",
-        "author": ""
-    },
-    {
-        "title": "1 TEA - SPOON TEL SE VYANJAN PAKANA (HINDI)",
-        "author": "DALAL TARLA"
-    },
-    {
-        "title": "1,001 WAYS TO INSPIRE YOUR ORGANIZATION , YOUR TEAM AND YOURSELF",
-        "author": "RYE DAVID E"
-    },
-    {
-        "title": "10 JABTSUDHA KAHANIAN",
-        "author": "MANTO SAADAT HASAN"
-    },
-    {
-        "title": "10 JUDGEMENTS THAT CHANGED INDIA",
-        "author": "ZIA MODI"
-    },
-    {
-        "title": "10 KAHANIYA",
-        "author": "M L RAHI"
-    },
-    {
-        "title": "10 PRACTICE SETS : WITH SOLVED PAPERS 2011-2015",
-        "author": ""
-    },
-    {
-        "title": "10 PRATINIDHI KAHANIAN",
-        "author": "PRAKASH UDAY"
-    },
-    {
-        "title": "10 PRINCIPLES OF UNIVERSAL WISDOM",
-        "author": "OKAWA RYUHO"
-    },
-    {
-        "title": "10 RULES OF WISDOM: PRINCIPLES FOR CREATION OF AN IDEAL WORLD",
-        "author": "RYUHO OKAWA"
-    },
-    {
-        "title": "10 SECRETS OF A GREAT MARRIAGE",
-        "author": "GRAY JOHN"
-    }
+  { "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "genre": "Fiction", "year": 1925 },
+  { "title": "1984", "author": "George Orwell", "genre": "Dystopian", "year": 1949 },
+  { "title": "To Kill a Mockingbird", "author": "Harper Lee", "genre": "Classic", "year": 1960 },
+  { "title": "Moby Dick", "author": "Herman Melville", "genre": "Adventure", "year": 1851 }
 ]
