@@ -16,7 +16,7 @@ function displayBooks(bookList) {
   bookTable.innerHTML = ''; // Clear previous results
 
   if (bookList.length === 0) {
-    bookTable.innerHTML = '<tr><td colspan="4" class="no-results">No results found</td></tr>';
+    bookTable.innerHTML = '<tr><td colspan="2" class="no-results">No results found</td></tr>';
     return;
   }
 
@@ -25,8 +25,6 @@ function displayBooks(bookList) {
       <tr>
         <td>${book.title}</td>
         <td>${book.author}</td>
-        <td>${book.genre}</td>
-        <td>${book.year}</td>
       </tr>
     `;
     bookTable.innerHTML += row;
@@ -38,8 +36,7 @@ function searchBooks() {
   const query = document.getElementById('searchBox').value.toLowerCase();
   const filteredBooks = books.filter(book =>
     book.title.toLowerCase().includes(query) ||
-    book.author.toLowerCase().includes(query) ||
-    book.genre.toLowerCase().includes(query)
+    book.author.toLowerCase().includes(query) 
   );
   displayBooks(filteredBooks);
 }
